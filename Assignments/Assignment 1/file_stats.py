@@ -8,8 +8,7 @@ def file_stats(pathname):
             lines.append(float(each_line.rstrip()))
     num = len(lines)
     avg = sum(lines) / num
-    for data in lines:
-        deviations = [(data - avg) ** 2]
+    deviations = [(data - avg) ** 2 for data in lines]
     variance = sum(deviations)/(num-1)
     stddev = math.sqrt(variance)
     return avg, stddev
