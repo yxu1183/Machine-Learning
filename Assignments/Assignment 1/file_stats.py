@@ -1,3 +1,7 @@
+# Name: Yunika Upadhayaya
+# ID: 1001631183
+# CSE 4309 - Assignment 1 (Task 9)
+
 import math
 
 
@@ -12,11 +16,8 @@ def file_stats(pathname):
     variance = sum(deviations)/(num-1)
     stddev = math.sqrt(variance)
     return avg, stddev
-    # print(num)
-    # print(lines)
-    # print(avg)
-    # print(stddev)
 
+#for testing:
 
 average, std = file_stats("numbers1.txt")
 print(average, std)

@@ -1,3 +1,7 @@
+# Name: Yunika Upadhayaya
+# ID: 1001631183
+# CSE 4309 - Assignment 1 (Task 10)
+
 import numpy as np
 
 
@@ -19,4 +23,4 @@ a = np.array([[0.8147, 0.0975, 0.1576, 0.1419, 0.6557, 0.7577],
 print(nth_smallest(a, 1, 2, 3, 4, 1))
 print(nth_smallest(a, 1, 2, 3, 4, 2))
 print(nth_smallest(a, 1, 2, 3, 4, 3))
-print(nth_smallest(a, 1, 2, 3, 4, 4))
+print(nth_smallest(a, 1, 2, 3, 4, 4)) 
