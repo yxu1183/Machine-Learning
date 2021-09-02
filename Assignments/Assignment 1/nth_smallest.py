@@ -1,7 +1,13 @@
 import numpy as np
 
+
 def nth_smallest(data, top, bottom, left, right, n):
-# your code goes here
+    arr = []
+    for i in range(top, bottom+1):
+        for j in range(left, right+1):
+            arr.append(data[i][j])
+    arr.sort()
+    return arr[n-1]
 
 
 a = np.array([[0.8147, 0.0975, 0.1576, 0.1419, 0.6557, 0.7577],
