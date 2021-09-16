@@ -1,3 +1,6 @@
+# Name: Yunika Upadhayaya
+# Student Id: 1001631183
+
 import math
 import statistics
 import sys

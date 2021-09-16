@@ -1,3 +1,7 @@
+# Name: Yunika Upadhayaya
+# Student ID: 1001631183
+
+
 class Attribute:
     def __init__(self, id_att):
         self.nums = []
