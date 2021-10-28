@@ -1,8 +1,8 @@
 # Machine-Learning
 
- This Repository contains some of the Machine Learning Algortihms that I implemented using Python.
+ This Repository contains some of the Machine Learning Algorthims that I implemented using Python.
 
-# Alogrithm used are :
+# Alogrithm implemented are :
   1. Decision Trees
   2. Linear Regression
   3. Naive Bayes Classifier
