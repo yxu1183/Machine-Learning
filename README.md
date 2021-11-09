@@ -4,6 +4,7 @@
 
 # Alogrithm implemented are :
   1. Decision Trees
-  2. Linear Regression
+  2. K-means-Clustering
+  3. Linear Regression
   3. Naive Bayes Classifier
   4. Neural Network
