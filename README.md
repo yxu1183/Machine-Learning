@@ -2,7 +2,7 @@
 
  This Repository contains some of the Machine Learning Algorthims that I implemented using Python.
 
-# Alogrithm implemented are :
+# Implemented Algorithms:
   1. Bayesian Estimation
   2. Decision Trees
   3. K-means-Clustering
